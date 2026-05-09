@@ -9,7 +9,7 @@ This repository contains a collection of architectural frameworks for AI Prompt 
 
 ## 🔗 Official Store & Full Documentation
 Access the high-performance prompt logic here:
-👉 **[[Visit brkut Store on PromptBase](https://promptbase.com/profile/brkut)](https://promptbase.com)**
+👉 **[Visit brkut Store on PromptBase](https://promptbase.com/profile/brkut)**
 
 ## Usage
 These prompts are optimized for GPT-4 and Claude 3.5 Sonnet to ensure professional business output.
